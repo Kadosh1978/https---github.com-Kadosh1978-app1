@@ -1,0 +1,12 @@
+# python stuff
+venv/
+.pylintrc
+_pycash_/
+
+# ide stuff
+.vscode
+.idea
+
+# django staff
+db.sqlite3
+media/
